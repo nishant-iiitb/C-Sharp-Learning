@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\Classes\bin\Debug\net6.0\Classes.exe
+D:\SelfLearning\C#-Code\Introduction\Classes\bin\Debug\net6.0\Classes.deps.json
+D:\SelfLearning\C#-Code\Introduction\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\Classes\bin\Debug\net6.0\Classes.dll
+D:\SelfLearning\C#-Code\Introduction\Classes\bin\Debug\net6.0\Classes.pdb
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\Classes.dll
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\refint\Classes.dll
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\Classes.pdb
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\Classes\obj\Debug\net6.0\ref\Classes.dll

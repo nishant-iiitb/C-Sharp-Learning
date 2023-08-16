@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Introduction
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {

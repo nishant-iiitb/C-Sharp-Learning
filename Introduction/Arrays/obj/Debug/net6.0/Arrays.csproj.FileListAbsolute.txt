@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\SelfLearning\C#-Code\Introduction\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\SelfLearning\C#-Code\Introduction\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\SelfLearning\C#-Code\Introduction\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\Arrays\obj\Debug\net6.0\ref\Arrays.dll

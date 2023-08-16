@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\bin\Debug\net6.0\ReferenceType.exe
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\bin\Debug\net6.0\ReferenceType.deps.json
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\bin\Debug\net6.0\ReferenceType.dll
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\bin\Debug\net6.0\ReferenceType.pdb
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\ReferenceType.dll
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\refint\ReferenceType.dll
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\ReferenceType.pdb
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\ReferenceType\obj\Debug\net6.0\ref\ReferenceType.dll

@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\Enums\bin\Debug\net6.0\Enums.exe
+D:\SelfLearning\C#-Code\Introduction\Enums\bin\Debug\net6.0\Enums.deps.json
+D:\SelfLearning\C#-Code\Introduction\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\Enums\bin\Debug\net6.0\Enums.dll
+D:\SelfLearning\C#-Code\Introduction\Enums\bin\Debug\net6.0\Enums.pdb
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\Enums.dll
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\refint\Enums.dll
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\Enums.pdb
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\Enums\obj\Debug\net6.0\ref\Enums.dll

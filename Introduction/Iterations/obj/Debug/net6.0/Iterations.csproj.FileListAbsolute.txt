@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\Iterations\bin\Debug\net6.0\Iterations.exe
+D:\SelfLearning\C#-Code\Introduction\Iterations\bin\Debug\net6.0\Iterations.deps.json
+D:\SelfLearning\C#-Code\Introduction\Iterations\bin\Debug\net6.0\Iterations.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\Iterations\bin\Debug\net6.0\Iterations.dll
+D:\SelfLearning\C#-Code\Introduction\Iterations\bin\Debug\net6.0\Iterations.pdb
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\Iterations.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\Iterations.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\Iterations.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\Iterations.dll
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\refint\Iterations.dll
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\Iterations.pdb
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\Iterations.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\Iterations\obj\Debug\net6.0\ref\Iterations.dll

@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\Variable.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\Variable.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\Variable.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Variable\bin\Debug\net6.0\Variable.exe
+D:\SelfLearning\C#-Code\Introduction\Variable\bin\Debug\net6.0\Variable.deps.json
+D:\SelfLearning\C#-Code\Introduction\Variable\bin\Debug\net6.0\Variable.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\Variable\bin\Debug\net6.0\Variable.dll
+D:\SelfLearning\C#-Code\Introduction\Variable\bin\Debug\net6.0\Variable.pdb
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\Variable.dll
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\refint\Variable.dll
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\Variable.pdb
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\Variable.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\Variable\obj\Debug\net6.0\ref\Variable.dll
