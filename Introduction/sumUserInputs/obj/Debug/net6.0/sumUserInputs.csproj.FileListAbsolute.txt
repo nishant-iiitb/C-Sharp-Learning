@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\bin\Debug\net6.0\sumUserInputs.exe
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\bin\Debug\net6.0\sumUserInputs.deps.json
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\bin\Debug\net6.0\sumUserInputs.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\bin\Debug\net6.0\sumUserInputs.dll
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\bin\Debug\net6.0\sumUserInputs.pdb
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\sumUserInputs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\sumUserInputs.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\sumUserInputs.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\sumUserInputs.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\sumUserInputs.dll
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\refint\sumUserInputs.dll
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\sumUserInputs.pdb
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\sumUserInputs.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\sumUserInputs\obj\Debug\net6.0\ref\sumUserInputs.dll

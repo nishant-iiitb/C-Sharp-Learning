@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\bin\Debug\net6.0\GuessNumber.exe
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\bin\Debug\net6.0\GuessNumber.deps.json
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\bin\Debug\net6.0\GuessNumber.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\bin\Debug\net6.0\GuessNumber.dll
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\bin\Debug\net6.0\GuessNumber.pdb
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\GuessNumber.dll
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\refint\GuessNumber.dll
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\GuessNumber.pdb
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\GuessNumber.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\GuessNumber\obj\Debug\net6.0\ref\GuessNumber.dll

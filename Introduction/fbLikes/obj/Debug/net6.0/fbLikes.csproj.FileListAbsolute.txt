@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\fbLikes\bin\Debug\net6.0\fbLikes.exe
+D:\SelfLearning\C#-Code\Introduction\fbLikes\bin\Debug\net6.0\fbLikes.deps.json
+D:\SelfLearning\C#-Code\Introduction\fbLikes\bin\Debug\net6.0\fbLikes.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\fbLikes\bin\Debug\net6.0\fbLikes.dll
+D:\SelfLearning\C#-Code\Introduction\fbLikes\bin\Debug\net6.0\fbLikes.pdb
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\fbLikes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\fbLikes.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\fbLikes.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\fbLikes.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\fbLikes.dll
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\refint\fbLikes.dll
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\fbLikes.pdb
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\fbLikes.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\fbLikes\obj\Debug\net6.0\ref\fbLikes.dll

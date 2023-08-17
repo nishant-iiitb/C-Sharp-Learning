@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\ReverseString\bin\Debug\net6.0\ReverseString.exe
+D:\SelfLearning\C#-Code\Introduction\ReverseString\bin\Debug\net6.0\ReverseString.deps.json
+D:\SelfLearning\C#-Code\Introduction\ReverseString\bin\Debug\net6.0\ReverseString.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\ReverseString\bin\Debug\net6.0\ReverseString.dll
+D:\SelfLearning\C#-Code\Introduction\ReverseString\bin\Debug\net6.0\ReverseString.pdb
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\ReverseString.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\ReverseString.dll
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\refint\ReverseString.dll
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\ReverseString.pdb
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\ReverseString.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\ReverseString\obj\Debug\net6.0\ref\ReverseString.dll

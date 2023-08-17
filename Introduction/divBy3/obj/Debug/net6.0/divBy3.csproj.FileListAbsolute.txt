@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\divBy3\bin\Debug\net6.0\divBy3.exe
+D:\SelfLearning\C#-Code\Introduction\divBy3\bin\Debug\net6.0\divBy3.deps.json
+D:\SelfLearning\C#-Code\Introduction\divBy3\bin\Debug\net6.0\divBy3.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\divBy3\bin\Debug\net6.0\divBy3.dll
+D:\SelfLearning\C#-Code\Introduction\divBy3\bin\Debug\net6.0\divBy3.pdb
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\divBy3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\divBy3.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\divBy3.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\divBy3.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\divBy3.dll
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\refint\divBy3.dll
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\divBy3.pdb
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\divBy3.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\divBy3\obj\Debug\net6.0\ref\divBy3.dll

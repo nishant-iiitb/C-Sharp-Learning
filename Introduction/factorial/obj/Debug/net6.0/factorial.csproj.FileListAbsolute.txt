@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\factorial\bin\Debug\net6.0\factorial.exe
+D:\SelfLearning\C#-Code\Introduction\factorial\bin\Debug\net6.0\factorial.deps.json
+D:\SelfLearning\C#-Code\Introduction\factorial\bin\Debug\net6.0\factorial.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\factorial\bin\Debug\net6.0\factorial.dll
+D:\SelfLearning\C#-Code\Introduction\factorial\bin\Debug\net6.0\factorial.pdb
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\factorial.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\factorial.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\factorial.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\factorial.dll
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\refint\factorial.dll
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\factorial.pdb
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\factorial.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\factorial\obj\Debug\net6.0\ref\factorial.dll

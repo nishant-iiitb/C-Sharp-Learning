@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\bin\Debug\net6.0\MaxFromString.exe
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\bin\Debug\net6.0\MaxFromString.deps.json
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\bin\Debug\net6.0\MaxFromString.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\bin\Debug\net6.0\MaxFromString.dll
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\bin\Debug\net6.0\MaxFromString.pdb
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\MaxFromString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\MaxFromString.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\MaxFromString.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\MaxFromString.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\MaxFromString.dll
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\refint\MaxFromString.dll
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\MaxFromString.pdb
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\MaxFromString.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\MaxFromString\obj\Debug\net6.0\ref\MaxFromString.dll
