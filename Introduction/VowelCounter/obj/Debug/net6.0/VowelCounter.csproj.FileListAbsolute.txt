@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\bin\Debug\net6.0\VowelCounter.exe
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\bin\Debug\net6.0\VowelCounter.deps.json
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\bin\Debug\net6.0\VowelCounter.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\bin\Debug\net6.0\VowelCounter.dll
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\bin\Debug\net6.0\VowelCounter.pdb
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\VowelCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\VowelCounter.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\VowelCounter.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\VowelCounter.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\VowelCounter.dll
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\refint\VowelCounter.dll
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\VowelCounter.pdb
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\VowelCounter.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\VowelCounter\obj\Debug\net6.0\ref\VowelCounter.dll

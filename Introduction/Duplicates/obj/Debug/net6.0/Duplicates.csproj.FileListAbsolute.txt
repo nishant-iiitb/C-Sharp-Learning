@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\Duplicates\bin\Debug\net6.0\Duplicates.exe
+D:\SelfLearning\C#-Code\Introduction\Duplicates\bin\Debug\net6.0\Duplicates.deps.json
+D:\SelfLearning\C#-Code\Introduction\Duplicates\bin\Debug\net6.0\Duplicates.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\Duplicates\bin\Debug\net6.0\Duplicates.dll
+D:\SelfLearning\C#-Code\Introduction\Duplicates\bin\Debug\net6.0\Duplicates.pdb
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\Duplicates.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\Duplicates.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\Duplicates.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\Duplicates.dll
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\refint\Duplicates.dll
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\Duplicates.pdb
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\Duplicates.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\Duplicates\obj\Debug\net6.0\ref\Duplicates.dll

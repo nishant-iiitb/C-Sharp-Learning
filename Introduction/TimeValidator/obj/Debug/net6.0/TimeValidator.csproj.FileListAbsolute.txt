@@ -1,0 +1,14 @@
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\bin\Debug\net6.0\TimeValidator.exe
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\bin\Debug\net6.0\TimeValidator.deps.json
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\bin\Debug\net6.0\TimeValidator.runtimeconfig.json
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\bin\Debug\net6.0\TimeValidator.dll
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\bin\Debug\net6.0\TimeValidator.pdb
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\TimeValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\TimeValidator.AssemblyInfoInputs.cache
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\TimeValidator.AssemblyInfo.cs
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\TimeValidator.csproj.CoreCompileInputs.cache
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\TimeValidator.dll
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\refint\TimeValidator.dll
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\TimeValidator.pdb
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\TimeValidator.genruntimeconfig.cache
+D:\SelfLearning\C#-Code\Introduction\TimeValidator\obj\Debug\net6.0\ref\TimeValidator.dll

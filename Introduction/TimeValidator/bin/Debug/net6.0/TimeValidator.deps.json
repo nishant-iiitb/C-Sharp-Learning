@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TimeValidator/1.0.0": {
+        "runtime": {
+          "TimeValidator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeValidator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
